@@ -14,7 +14,7 @@ parent_url: /albiononline/builds/
 - **Healer** Holy Staff
 - **DPS** Fire Staff × *many*
 
-![](frostbornexiles.github.io/albiononline/builds/firestafffriday/Fire%20Staff%20Friday.png)
+![](Fire%20Staff%20Friday.png)
 
 ## Everyone
 

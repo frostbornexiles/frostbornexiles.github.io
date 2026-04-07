@@ -8,6 +8,7 @@ parent_url: /albiononline/
 
 # Builds
 
+- [Brawl 20](brawl20/)
 - [Roads FTB](roadsFTB/)
 - [4vX](4vX/)
 - [Ganking](ganking/)
