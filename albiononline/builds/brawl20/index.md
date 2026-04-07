@@ -7,48 +7,30 @@ parent_url: /albiononline/builds/
 {% include breadcrumbs.html %}
 
 # Brawl 20
+
 ## Roles
 
 1. **Caller/Engage Tank** *preferred weapon* / Dreadstorm Monarch
 2. **Defensive Tank** Great Arcane Staff
 3. **Defensive Tank** Truebolt Hammer
-4. **Defensive Tank**Staff of Balance
+4. **Defensive Tank** Staff of Balance
 5. **Defensive Tank** Dreadstorm Monarch / Incubus Mace
 6. **Healer** Hallowfall
 7. **Healer** Hallowfall
 8. **Healer** Fallen Staff
 9. **Healer** Blight Staff / Wild Staff
-10. **DPS** Infinity Blade
+10. **DPS**
 11. **DPS**
 12. **DPS**
 13. **DPS**
 14. **DPS**
 15. **DPS**
 16. **DPS**
-17. **DPS**
-18. **Support** Damnation Station Staff
-19. **Support** Oathkeepers
-
-## Optional ⚠️ *TO BE REVIEWED*
-
-- **Support** Rotcaller Staff
-- **Support** Rootbound Staff
-- **Execute/Loot** Bloodletter ⚠️ *TO BE REVIEWED*
-
-## DPS ⚠️ *TO BE REVIEWED*
-
-- Kingmaker
-- Carrioncaller
-- Infernal Scythe
-- Bear Paws
-- Forge Hammers
-- Spiked Gauntlets
-- Ursine Maulers
-- Heron Spear
-- Astral Staff
-- Bloodmoon Staff
-- Lightcaller
-- Stillgaze Staff
+17. **Support** Damnation Station Staff
+18. **Support** Oathkeepers
+19. **Support** Rotcaller Staff
+20. **Support** Rootbound Staff
+21. **Execute/Loot** Bloodletter
 
 ![](Brawl%2020.png)
 
@@ -61,7 +43,8 @@ parent_url: /albiononline/builds/
 
 ## Caller/Engage Tank
 
-- *preferred weapon* / Dreadstorm Monarch (1/3 2/3 1 2)
+- *preferred weapon* Dreadstorm Monarch (3 2 1 2)
+- Astral Aegis
 - Knight Helmet (3 1)
 - Judicator Armor (3 1/2 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -71,7 +54,7 @@ parent_url: /albiononline/builds/
 
 ## Great Arcane Staff
 
-- Great Arcane Staff (2 2 1 4)
+- Great Arcane Staff (2 2 1 2)
 - Assassin Hood (3 3)
 - Knight Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -81,7 +64,7 @@ parent_url: /albiononline/builds/
 
 ## Truebolt Hammer
 
-- Truebolt Hammer (3 2/5 1 4) / Incubus Mace (1/3 2/3 1 2/4)
+- Truebolt Hammer (3 5 1 2) / Incubus Mace (3 2 1 2)
 - Leering Cane
 - Judicator Helmet (3 1) / Hellion Hood (3 3)
 - Duskweaver Armor (3 1 •)
@@ -92,7 +75,7 @@ parent_url: /albiononline/builds/
 
 ## Staff of Balance
 
-- Staff of Balance (1/3 2/3/45 1/2/4)
+- Staff of Balance (3 4 1 2)
 - Hellion Hood (3 3)
 - Duskweaver Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -102,7 +85,7 @@ parent_url: /albiononline/builds/
 
 ## Heavy Mace
 
-- Heavy Mace (1 2 1 2)
+- Heavy mace (3 2 1 2)
 - Hellion Hood (3 3) / Demon Helmet (3 1)
 - Guardian Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -143,7 +126,7 @@ parent_url: /albiononline/builds/
 
 ## Blight Staff
 
-- Blight Staff (3 4 1 1) / Wild Staff (3 4 1 1)
+- Blight Staff (1 5 1 3) / Wild Staff (1 5 1 3)
 - Assassin Hood (3 1)
 - *leather jacket* (2 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 2) / Stalker Shoes (3 2)
@@ -153,7 +136,19 @@ parent_url: /albiononline/builds/
 
 ## Melee DPS
 
-⚠️ *ADD WEAPON ABILITIES FOR ALL MDPS WEAPONS*
+- Kingmaker (2 6 1 4)
+- Infinity Blade (2 1 1 4) / Muisak
+- Carrioncaller (3 5 1 3)
+- Infernal Scythe (3 5 1 3)
+- Bear Paws (3 5 1 3)
+- Forge Hammers (1 2 1 2)
+- Spiked Gauntlets (3 1 1 4)
+- Ursine Maulers (3 1 1 4)
+- Heron Spear (1 1 1 1) / Muisak
+- Astral Staff (2 2 1 2)
+- Bloodmoon Staff (4 1 1 1)
+- Lightcaller (4 1 1 4)
+- Bloodletter (2 1 1 1) / Facebreaker
 
 - Cleric Cowl (3 1)
 - Hellion Jacket (3 1)
@@ -174,7 +169,10 @@ parent_url: /albiononline/builds/
 
 ## Support
 
-⚠️ *ADD WEAPON ABILITIES FOR ALL SUPPORT*
+- Oathkeepers (3 3 1 2)
+- Damnation Staff (3 2 1 3)
+- Rotcaller Staff (3 1 1 3) / Timelocked Grimoire or Mistcaller
+- Forgebark Staff (3 4 1 3)
 
 - Assassin Hood (3 3)
 - Judicator Armor (3 1 •)
