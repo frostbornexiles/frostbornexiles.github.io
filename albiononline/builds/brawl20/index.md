@@ -10,27 +10,29 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-1. **Caller/Engage Tank** *preferred weapon* / Dreadstorm Monarch
-2. **Defensive Tank** Great Arcane Staff
-3. **Defensive Tank** Truebolt Hammer
-4. **Defensive Tank** Staff of Balance
-5. **Defensive Tank** Dreadstorm Monarch / Incubus Mace
-6. **Healer** Hallowfall
-7. **Healer** Hallowfall
-8. **Healer** Fallen Staff
-9. **Healer** Blight Staff / Wild Staff
-10. **DPS**
-11. **DPS**
-12. **DPS**
-13. **DPS**
-14. **DPS**
-15. **DPS**
-16. **DPS**
-17. **Support** Damnation Station Staff
-18. **Support** Oathkeepers
-19. **Support** Rotcaller Staff
-20. **Support** Rootbound Staff
-21. **Execute/Loot** Bloodletter
+1. [**Caller/Engage Tank**](#caller-engage-tank)
+2. **Defensive Tank** [Great Arcane Staff](#great-arcane-staff)
+3. **Defensive Tank** [Truebolt Hammer](#truebolthammer)
+4. **Defensive Tank** [Staff of Balance](#staff-of-balance)
+5. **Defensive Tank** [Heavy Mace](#heavy-mace)
+6. **Defensive Tank** [Dreadstorm Monarch](#dreadstorm-monarch)
+7. **Healer** [Hallowfall](#hallowfall)
+8. **Healer** [Hallowfall](#hallowfall)
+9. **Healer** [Fallen Staff](#fallen-staff)
+10. **Healer** [Blight Staff](#blight-staff)
+11. [**DPS**](#DPS)
+12. [**DPS**](#DPS)
+13. [**DPS**](#DPS)
+14. [**DPS**](#DPS)
+15. [**DPS**](#DPS)
+16. [**DPS**](#DPS)
+17. [**Support**](#support) Damnation Staff
+18. [**Support**](#support) Oathkeepers
+19. [**Support**](#support) Rotcaller Staff
+20. [**Support**](#support) Rootbound Staff
+21. [**DPS**](#DPS) (Execute/Loot) Bloodletter
+
+**DPS** Kingmaker, Infinity Blade, Carrioncaller, Infernal Scythe, Bear Paws, Forge Hammers, [Spiked Gauntlets](#spiked-gauntlets), Ursine Maulers, Heron Spear, Bloodmoon Staff, Lightcaller, Astral Staff, Bloodletter
 
 ![](Brawl%2020.png)
 
@@ -41,9 +43,9 @@ parent_url: /albiononline/builds/
 - 5 × *potions*
 - 10 × Siphoned Energy
 
-## Caller/Engage Tank
+## Caller
 
-- *preferred weapon* Dreadstorm Monarch (3 2 1 2)
+- *preferred weapon* / Dreadstorm Monarch (3 2 1 2)
 - Astral Aegis
 - Knight Helmet (3 1)
 - Judicator Armor (3 1/2 •)
@@ -64,7 +66,7 @@ parent_url: /albiononline/builds/
 
 ## Truebolt Hammer
 
-- Truebolt Hammer (3 5 1 2) / Incubus Mace (3 2 1 2)
+- Truebolt Hammer (3 5 1 2)
 - Leering Cane
 - Judicator Helmet (3 1) / Hellion Hood (3 3)
 - Duskweaver Armor (3 1 •)
@@ -95,7 +97,7 @@ parent_url: /albiononline/builds/
 
 ## Dreadstorm Monarch
 
-- Dreadstorm Monarch (1/3 2/3 1 2)
+- Dreadstorm Monarch (1/3 2/3 1 2) / Incubus Mace (3 2 1 2)
 - Assassin Hood (3 3)
 - Guardian Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -134,7 +136,7 @@ parent_url: /albiononline/builds/
 - Resistance Potion
 - Pork Omelette
 
-## Melee DPS
+## DPS
 
 - Kingmaker (2 6 1 4)
 - Infinity Blade (2 1 1 4) / Muisak
@@ -142,12 +144,11 @@ parent_url: /albiononline/builds/
 - Infernal Scythe (3 5 1 3)
 - Bear Paws (3 5 1 3)
 - Forge Hammers (1 2 1 2)
-- Spiked Gauntlets (3 1 1 4)
 - Ursine Maulers (3 1 1 4)
 - Heron Spear (1 1 1 1) / Muisak
-- Astral Staff (2 2 1 2)
 - Bloodmoon Staff (4 1 1 1)
 - Lightcaller (4 1 1 4)
+- Astral Staff (2 2 1 2)
 - Bloodletter (2 1 1 1) / Facebreaker
 
 - Cleric Cowl (3 1)
@@ -159,7 +160,7 @@ parent_url: /albiononline/builds/
 
 ## Spiked Gauntlets
 
-- Spiked Gauntlets (4 4 1 1)
+- Spiked Gauntlets (3 1 1 4)
 - Assassin Hood (3 1)
 - Cultist Robe (2/3 2)
 - Stalker Shoes (3 2)
@@ -171,8 +172,8 @@ parent_url: /albiononline/builds/
 
 - Oathkeepers (3 3 1 2)
 - Damnation Staff (3 2 1 3)
-- Rotcaller Staff (3 1 1 3) / Timelocked Grimoire or Mistcaller
-- Forgebark Staff (3 4 1 3)
+- Rotcaller Staff (3 1 1 3) / Mistcaller
+- Forgebark Staff (3 4 1 3) / Mistcaller
 
 - Assassin Hood (3 3)
 - Judicator Armor (3 1 •)
