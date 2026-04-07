@@ -20,17 +20,17 @@ parent_url: /albiononline/builds/
 8. **Healer** [Hallowfall](#hallowfall)
 9. **Healer** [Fallen Staff](#fallen-staff)
 10. **Healer** [Blight Staff](#blight-staff)
-11. [**DPS**](#DPS)
-12. [**DPS**](#DPS)
-13. [**DPS**](#DPS)
-14. [**DPS**](#DPS)
-15. [**DPS**](#DPS)
-16. [**DPS**](#DPS)
+11. [**DPS**](#dps)
+12. [**DPS**](#dps)
+13. [**DPS**](#dps)
+14. [**DPS**](#dps)
+15. [**DPS**](#dps)
+16. [**DPS**](#dps)
 17. [**Support**](#support) Damnation Staff
 18. [**Support**](#support) Oathkeepers
 19. [**Support**](#support) Rotcaller Staff
 20. [**Support**](#support) Rootbound Staff
-21. [**DPS**](#DPS) (Execute/Loot) Bloodletter
+21. [**DPS**](#dps) (Execute/Loot) Bloodletter
 
 **DPS** Kingmaker, Infinity Blade, Carrioncaller, Infernal Scythe, Bear Paws, Forge Hammers, [Spiked Gauntlets](#spiked-gauntlets), Ursine Maulers, Heron Spear, Bloodmoon Staff, Lightcaller, Astral Staff, Bloodletter
 
@@ -43,7 +43,7 @@ parent_url: /albiononline/builds/
 - 5 × *potions*
 - 10 × Siphoned Energy
 
-## Caller
+## Caller/Engage Tank
 
 - *preferred weapon* / Dreadstorm Monarch (3 2 1 2)
 - Astral Aegis
@@ -98,6 +98,7 @@ parent_url: /albiononline/builds/
 ## Dreadstorm Monarch
 
 - Dreadstorm Monarch (1/3 2/3 1 2) / Incubus Mace (3 2 1 2)
+- Astral Aegis
 - Assassin Hood (3 3)
 - Guardian Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
