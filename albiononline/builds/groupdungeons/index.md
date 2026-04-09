@@ -22,7 +22,7 @@ parent_url: /albiononline/builds/
 ## Everyone
 
 - Weapon, off-hand, armour T8 (or equivalent)
-- Capes T4.3 (Thetford Cape T5.3)
+- Cape T4.3 (Thetford Cape T5.3)
 - Riding/Armored Horse, Bag T6
 - 5 × Calming Potion T3.2 (**Tank** 20 × Poison Potion)
 - 3 × *food* (regular foods enchanted 7.1/8.1)

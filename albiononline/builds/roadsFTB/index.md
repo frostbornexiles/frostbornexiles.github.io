@@ -22,7 +22,7 @@ parent_url: /albiononline/builds/
 
 ## Everyone
 
-- Horse and Bag T5
+- Horse, Bag T5
 - 3 × *main food*
 - 5 × Resistance Potion T7
 - 5 × Calming Potion T3.2

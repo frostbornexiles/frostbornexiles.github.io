@@ -8,13 +8,13 @@ parent_url: /albiononline/
 
 # Builds
 
-- [Brawl 20](brawl20/)
-- [Roads FTB](roadsFTB/)
 - [4vX](4vX/)
-- [Ganking](ganking/)
+- [Avalonian Dungeon “Soup” Skip](soupskip/)
+- [Avalonian Dungeons 10](avaloniandungeons10/)
+- [Brawl 20](brawl20/)
 - [Fire Staff Friday](firestaff/)
+- [Ganking](ganking/)
 - [Gold Chests](goldchests/)
 - [Group Dungeons](groupdungeons/)
+- [Roads FTB](roadsFTB/)
 - [Static Dungeons](staticdungeons/)
-- [Avalonian Dungeons](avaloniandungeons/)
-- [Avalonian Dungeon “Soup” Skip](soupskip/)

@@ -18,7 +18,7 @@ parent_url: /albiononline/builds/
 
 ## Everyone
 
-- Weapon, off-hand, armour, cape (regular) T4.1
+- Weapon, off-hand, armour, cape T4.1
 - Horse, Bag T3
 
 ## Mace

@@ -23,7 +23,7 @@ parent_url: /albiononline/builds/
 ## Everyone
 
 - Weapon, off-hand, armour T8 (or equivalent)
-- T7 allowed for expensive artefact armours
+- T7 allowed for expensive artefact armour
 - Demon/Thetford Cape T5.3, other capes T4.3
 - Require 100 specialisation on weapon (prefer 800)
 - Direwolf/Morgana Raven or fast mount

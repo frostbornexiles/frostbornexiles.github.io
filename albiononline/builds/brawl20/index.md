@@ -32,7 +32,7 @@ parent_url: /albiononline/builds/
 20. [**Support**](#support) Rootbound Staff
 21. [**DPS**](#dps) (Execute/Loot) Bloodletter
 
-**DPS** Kingmaker, Infinity Blade, Carrioncaller, Infernal Scythe, Bear Paws, Forge Hammers, [Spiked Gauntlets](#spiked-gauntlets), Ursine Maulers, Heron Spear, Bloodmoon Staff, Lightcaller, Astral Staff, Bloodletter
+**DPS** Carving Sword, Kingmaker, Infinity Blade, Carrioncaller, Infernal Scythe, Bear Paws, Forge Hammers, [Spiked Gauntlets](#spiked-gauntlets), Ursine Maulers, Heron Spear, Bloodmoon Staff, Lightcaller, Astral Staff, Bloodletter
 
 ![](Brawl%2020.png)
 
@@ -46,7 +46,7 @@ parent_url: /albiononline/builds/
 ## Caller/Engage Tank
 
 - *preferred weapon* / Dreadstorm Monarch (3 2 1 2)
-- Astral Aegis
+- Astral Aegis / *preferred shield*
 - Knight Helmet (3 1)
 - Judicator Armor (3 1/2 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -66,7 +66,7 @@ parent_url: /albiononline/builds/
 
 ## Truebolt Hammer
 
-- Truebolt Hammer (3 5 1 2)
+- Truebolt Hammer (3 5 1 2) / Hammer (3 5 1 2)
 - Leering Cane
 - Judicator Helmet (3 1) / Hellion Hood (3 3)
 - Duskweaver Armor (3 1 •)
@@ -109,7 +109,7 @@ parent_url: /albiononline/builds/
 ## Hallowfall
 
 - Hallowfall (3 2 1 4)
-- Mistcaller
+- Mistcaller / Sarcophagus
 - Soldier Helmet (3 1) / Guardian Helmet (3 1)
 - *leather jacket* (2 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 2) / Stalker Shoes (3 2)
@@ -139,6 +139,7 @@ parent_url: /albiononline/builds/
 
 ## DPS
 
+- Carving Sword (2 6 1 4)
 - Kingmaker (2 6 1 4)
 - Infinity Blade (2 1 1 4) / Muisak
 - Carrioncaller (3 5 1 3)
@@ -174,7 +175,7 @@ parent_url: /albiononline/builds/
 - Oathkeepers (3 3 1 2)
 - Damnation Staff (3 2 1 3)
 - Rotcaller Staff (3 1 1 3) / Mistcaller
-- Forgebark Staff (3 4 1 3) / Mistcaller
+- Rootbound Staff (4 1 1 3)
 
 - Assassin Hood (3 3)
 - Judicator Armor (3 1 •)
