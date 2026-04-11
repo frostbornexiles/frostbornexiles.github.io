@@ -36,7 +36,7 @@ parent_url: /albiononline/builds/
 ![](Avalonian%20Dungeons%2020.png)
 ## Everyone
 
-- Gallant Horse (highly recommended) or Armored Horse T7
+- Gallant Horse (recommended) or Armored Horse T7
 - Bag T7
 - 10 × Calming Potion T3 (for personal use)
 - 20 × Poison Potion T4 (all DPS)
