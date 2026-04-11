@@ -12,6 +12,7 @@ parent_url: /albiononline/
 - [Avalonian Dungeon “Soup” Skip](soupskip/)
 - [Avalonian Dungeons 10](avaloniandungeons10/)
 - [Brawl 20](brawl20/)
+- [Clap 10](/clap10)
 - [Fire Staff Friday](firestaff/)
 - [Ganking](ganking/)
 - [Gold Chests](goldchests/)
