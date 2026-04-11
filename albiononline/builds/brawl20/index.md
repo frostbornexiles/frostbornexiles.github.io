@@ -37,7 +37,7 @@ parent_url: /albiononline/builds/
 ![](Brawl%2020.png)
 
 ## Everyone
-- Swiftclaw
+- Swiftclaw or Direwolf / any fast mount
 - Bag T5
 - 3 × *food*
 - 5 × *potions*

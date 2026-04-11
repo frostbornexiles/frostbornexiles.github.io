@@ -26,7 +26,7 @@ parent_url: /albiononline/builds/
 - T7 allowed for expensive artefact armour
 - Demon/Thetford Cape T5.3, other capes T4.3
 - Require 100 specialisation on weapon (prefer 800)
-- Direwolf/Morgana Raven or fast mount
+- Direwolf/Morgana Raven or any fast mount
 - Bag T6
 - 5 × *main potion*
 - 3 × *food* (enchanted 7.1/8.1)

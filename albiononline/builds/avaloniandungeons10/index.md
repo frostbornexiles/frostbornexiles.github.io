@@ -294,7 +294,6 @@ parent_url: /albiononline/builds/
 
 ### High Priestess (Piñata)
 
-- Everyone swap to Poison Potions
 - Guardian Helmets (3 1) except Second Tank and GA
 - Main Tank switch to Threatening Strike and Power Geyser
 - Second Tank switch to Sacred Ground and Guard Rune and swap to Royal Jacket (3 3)
@@ -306,7 +305,7 @@ parent_url: /albiononline/builds/
 - Everyone swap to Poison Potions
 - Everyone switch to Dodge Roll
 - Everyone swap to Guardian Helmets (3 1)
-- Main Tank swap to Incubus Mace (2 3 1 2) Sarcophagus
+- Main Tank swap to Black Monk Stave (1 3 1 2)
 - Second Tank switch to Defensive Slam and Guard Rune
 - Second Tank swap to Knight Helmet (3 1)
 - GA swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
@@ -319,7 +318,7 @@ parent_url: /albiononline/builds/
 - Everyone switch to Dodge Roll
 - Main Tank swap to Black Monk Stave (1 3 1 2)
 - Second Tank switch to Defensive Slam and Guard Rune
-- Second Tank swap to Knight Helmet (3 1)
+- Second Tank swap to Knight Helmet (3 1) and Royal Jacket (3 3)
 - GA swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
 - Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
 - Shadowcaller swap to Royal Jacket (3 3)
