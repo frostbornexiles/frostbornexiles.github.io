@@ -10,12 +10,12 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-- **Tank** Incubus Mace
-- **Main Healer** Holy Staff
-- **Party Healer** Fallen Staff
-- **Support** Enigmatic Staff
-- **Support** Rotcaller Staff
-- At least 5 × **DPS** Boltcasters / Bow / Whispering Bow
+- **Tank** [Incubus Mace](#incubus-mace)
+- **Main Healer** [Holy Staff](#holy-staff)
+- **Party Healer** [Fallen Staff](#fallen-staff)
+- **Support** [Enigmatic Staff](#enigmatic staff)
+- **Support** [Rotcaller Staff](#rotcaller-staff)
+- At least 5 × **DPS** [Boltcasters](#boltcasters) / [Bow](#bow) / [Whispering Bow](#whispering-bow)
 
 ![](Avalonian%20Dungeon%20Skip.png)
 
