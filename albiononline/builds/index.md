@@ -11,6 +11,7 @@ parent_url: /albiononline/
 - [4vX](4vX/)
 - [Avalonian Dungeon “Soup” Skip](soupskip/)
 - [Avalonian Dungeons 10](avaloniandungeons10/)
+- [Avalonian Dungeons 20](avaloniandungeons20/)
 - [Brawl 10](brawl10/)
 - [Brawl 20](brawl20/)
 - [Clap 10](clap10/)

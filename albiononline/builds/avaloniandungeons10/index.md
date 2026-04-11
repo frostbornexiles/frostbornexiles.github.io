@@ -8,8 +8,6 @@ parent_url: /albiononline/builds/
 
 # Avalonian Dungeons 10
 
-**Boss Notes** [Knight Captain](#knight-captain), [Construct](#construct), [High Priestess (Piñata)](#high-priestess-piñata), [Archmage (Dancing Queen)](#archmage-dancing-queen), [Basilisk](#basilisk), [Sir Bedivere](#sir-bedivere)
-
 ## Roles
 
 1. [**Main Tank**](#main-tank)
@@ -22,8 +20,7 @@ parent_url: /albiononline/builds/
 8. **DPS**
 9. **DPS**
 10. **DPS**
-11. **DPS**
-12. **DPS**
+11. **Scout**
 
 **DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
 
@@ -31,29 +28,28 @@ parent_url: /albiononline/builds/
 
 ## Tier and IP requirements
 
-- DPS weapons and off-hands 1600 IP
-- Holy Staff and Specter Jacket 1600 IP
+- DPS weapons and off-hands 1800 IP
+- Holy Staff and Specter Jacket 1800 IP
 - All other items equivalent tier per the graphic
 
 ## Everyone
 
-- Gallant Horse (highly recommended) or Armored Horse T7
+- Gallant Horse
 - Bag T7
 - 10 × Calming Potion T3.2
-- 20 × Poison Potion T4 (except Main Healer 20 × Energy Potion T4)
+- 20 × Poison Potion T4 (all DPS)
 - 5 × *food* + one Pork Pie
-- Fort Sterling Cape
+- Fort Sterling Cape (for ride out/back)
 - Escape set (recommended)
 
 ## Escape (example)
 
 - Bloodletter (2 2 1 •) Mistcaller
-- Guardian Helmet (3 1) / *leather hood* (2 3)
+- *leather hood* (2 3)
 - Assassin Jacket (3 3)
 - Miner Workboots (4 •)
 - Brescilien Cape / Fort Sterling Cape
 - Invisibility Potion / Gigantify Potion
-- Pork Omelette
 
 ## Main Tank
 
@@ -61,7 +57,7 @@ parent_url: /albiononline/builds/
 - Soldier Helmet (3 2)
 - Guardian Armor (2 2 2)
 - Hunter Shoes (3 4)
-- Bridgewatch Cape
+- Fort Sterling Cape
 - 10 × Calming Potion T3.2
 - 5 × Avalonian Beef Sandwich
 
@@ -70,8 +66,6 @@ parent_url: /albiononline/builds/
 - Incubus Mace (2 3 1 2) Sarcophagus
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
-- Lymhurst Cape
-- 20 × Poison Potion T4
 
 ## Second Tank
 
@@ -89,11 +83,10 @@ parent_url: /albiononline/builds/
 - Royal Jacket (3 3)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 **Notes**
 - Shrinking Curse (E) does not apply while Great Arcane Staff *Time Freeze* is active.
-- Air Compress (W) only on Drones, Spearmen, Acolytes and Monks.
+- Air Compress (W) only works on Drones, Spearmen, Acolytes and Monks.
 
 ## Great Arcane Staff
 
@@ -110,7 +103,6 @@ parent_url: /albiononline/builds/
 - Enigmatic Staff (2 2 1 •)
 - Judicator Armor (3 1 1)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 ## Main Healer
 
@@ -124,9 +116,7 @@ parent_url: /albiononline/builds/
 
 **Swaps**
 - Holy Staff (1 2 1 1 / Priestess 3 2 1 1 / Archmage 3 5 1 1)
-- Eye of Secrets
 - Guardian Helmet (3 1)
-- 20 × Energy Potion T4
 
 ## Party Healer
 
@@ -136,13 +126,11 @@ parent_url: /albiononline/builds/
 - Royal Shoes (2 4)
 - Lymhurst Cape
 - 10 × Calming Potion T3.2
-- 20 × Poison Potion T4
 - 5 × Pork Omelette T7.1
 
 **Swaps**
 - Fallen Staff (3 5 1 1)
 - Guardian Helmet (3 1)
-- 20 × Poison Potion T4
 
 ## Shadowcaller
 
@@ -261,77 +249,3 @@ parent_url: /albiononline/builds/
 **Swaps**
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
-
-## Boss Notes
-
-## Winged Guardians
-
-- Everyone switch to Dodge Roll
-- Tanks swap to Knight Helmets
-- Second Tank switch to Guard Rune
-
-### Knight Captain
-
-- Everyone swap to Poison Potions
-- Royal Shoes switch to Evasive Jump
-- Everyone else switch to Dodge Roll
-- Main Tank swap to Knight Helmet (3 1) and Black Monk Stave (1 3 1 2) and switch to Toughness
-- Second Tank swap to Knight Helmet (3 1) and switch to Guard Rune
-- GA swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
-- Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
-- Crystal Reaper and Blazing Staff swap to single target DPS
-
-### Construct
-
-- Everyone swap to Poison Potions
-- Everyone swap to Guardian Helmets (3 1) except Main Tank
-- Everyone switch to Dodge Roll (use into wall/corner)
-- Main Tank swap to Incubus Mace (2 3 1 2) and Sarcophagus
-- Second Tank swap to Black Monk Stave (1 3 1 2) and switch to Taunt
-- GA swap to Fallen Staff (3 5 1 1)
-- Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
-- Crystal Reaper and Blazing Staff swap to single target DPS
-
-### High Priestess (Piñata)
-
-- Guardian Helmets (3 1) except Second Tank and GA
-- Main Tank switch to Threatening Strike and Power Geyser
-- Second Tank switch to Sacred Ground and Guard Rune and swap to Royal Jacket (3 3)
-- GA switch to Motivating Cleanse (use at start)
-- Main Healer swap to Holy Staff (3 2 1 1)
-
-### Archmage (Dancing Queen)
-
-- Everyone swap to Poison Potions
-- Everyone switch to Dodge Roll
-- Everyone swap to Guardian Helmets (3 1)
-- Main Tank swap to Black Monk Stave (1 3 1 2)
-- Second Tank switch to Defensive Slam and Guard Rune
-- Second Tank swap to Knight Helmet (3 1)
-- GA swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
-- Healers swap to Holy Staff (3 5 1 1) / Fallen Staff (3 5 1 1)
-- Crystal Reaper and Blazing Staff swap to single target DPS
-
-### Basilisk
-
-- Everyone swap to Poison Potions
-- Everyone switch to Dodge Roll
-- Main Tank swap to Black Monk Stave (1 3 1 2)
-- Second Tank switch to Defensive Slam and Guard Rune
-- Second Tank swap to Knight Helmet (3 1) and Royal Jacket (3 3)
-- GA swap to Enigmatic Staff (2 2 1 •) and Judicator Armor (3 1 1)
-- Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
-- Shadowcaller swap to Royal Jacket (3 3)
-- Crystal Reaper swap to single target DPS (not Blazing Staff)
-
-### Sir Bedivere
-- Everyone swap to Poison Potions
-- Everyone swap to Guardian Helmets (3 1)
-- Royal Shoes switch to Evasive Jump
-- Everyone else switch to Dodge Roll
-- Main Tank swap to Incubus Mace (2 3 1 2), Sarcophagus, Guardian Helmet (3 1) and Lymhurst Cape, and switch to Toughness on Guardian Armor
-- Second Tank swap to Rotcaller (3 1 1 3) and Royal Jacket (3 3)
-- GA swap to Enigmatic Staff (2 2 1 •)
-- Healers swap to Holy Staff (1 2 1 1) / Fallen Staff (3 5 1 1)
-- Shadowcaller swap to Royal Jacket (3 3)
-- Crystal Reaper and Blazing Staff swap to single target DPS
