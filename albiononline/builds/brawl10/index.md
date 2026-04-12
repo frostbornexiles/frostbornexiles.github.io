@@ -10,18 +10,18 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-|                    | Full Brawl      | Brawl Kite     | Brawl Clap       |
-| ------------------ | --------------- | -------------- | ---------------- |
-| **Caller**         | Great Hammer    | Mace           | Hand of Justice  |
-| **Defensive Tank** | Heavy Mace      | Heavy Mace     | Heavy Mace       |
-| **Support DPS**    | Halberd         | Spirithunter   | Realmbreaker     |
-| **DPS**            | Infinity Blade  | Longbow        | Carving Sword    |
-| **DPS**            | Ursine Maulers  | Heron Spear    | Kingmaker        |
-| **DPS**            | Bloodmoon Staff | Hellfire Hands | Spiked Gauntlets |
-| **DPS**            | Infernal Scythe | Carving Sword  | Infernal Scythe  |
-| **DPS**            | Bloodletter     | Dawnsong       | Dawnsong         |
-| **Healer**         | Hallowfall      | Hallowfall     | Hallowfall       |
-| **Healer**         | Blight Staff    | Blight Staff   | Blight Staff     |
+|                    | [Full Brawl](#full-brawl)           | [Brawl Kite](#brawl-kite)         | [Brawl Clap](#brawl-clap)             |
+| ------------------ | ----------------------------------- | --------------------------------- | ------------------------------------- |
+| **Caller**         | [Great Hammer](#great-hammer)       | [Mace](#mace)                     | [Hand of Justice](#hand-of-justice)   |
+| **Defensive Tank** | [Heavy Mace](#heavy-mace)           | [Heavy Mace](#heavy-mace-1)       | [Heavy Mace](#heavy-mace-2)           |
+| **Support DPS**    | [Halberd](#halberd)                 | [Spirithunter](#spirithunter)     | [Realmbreaker](#realmbreaker)         |
+| **DPS**            | [Infinity Blade](#infinity-blade)   | [Longbow](#longbow)               | [Carving Sword](#carving-sword-1)     |
+| **DPS**            | [Ursine Maulers](#ursine-maulers)   | [Heron Spear](#heron-spear)       | [Kingmaker](#kingmaker)               |
+| **DPS**            | [Bloodmoon Staff](#bloodmoon-staff) | [Hellfire Hands](#hellfire-hands) | [Spiked Gauntlets](#spiked-gauntlets) |
+| **DPS**            | [Infernal Scythe](#infernal-scythe) | [Carving Sword](#carving-sword)   | [Infernal Scythe](#infernal-scythe)   |
+| **DPS**            | [Bloodletter](#bloodletter)         | [Dawnsong](#dawnsong)             | [Dawnsong](#dawnsong-1)               |
+| **Healer**         | [Hallowfall](#hallowfall)           | [Hallowfall](#hallowfall-1)       | [Hallowfall](#hallowfall-2)           |
+| **Healer**         | [Blight Staff](#blight-staff)       | [Blight Staff](#blight-staff-1)   | [Blight Staff](#blight-staff-2)       |
 
 ![](Brawl%2010.png)
 
