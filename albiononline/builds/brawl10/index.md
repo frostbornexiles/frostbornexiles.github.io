@@ -10,20 +10,19 @@ parent_url: /albiononline/builds/
 
 ## Roles
 
-|                    | [Full Brawl](#full-brawl)           | [Brawl Kite](#brawl-kite)         | [Brawl Clap](#brawl-clap)             |
-| ------------------ | ----------------------------------- | --------------------------------- | ------------------------------------- |
-| **Caller**         | [Great Hammer](#great-hammer)       | [Mace](#mace)                     | [Hand of Justice](#hand-of-justice)   |
-| **Defensive Tank** | [Heavy Mace](#heavy-mace)           | [Heavy Mace](#heavy-mace-1)       | [Heavy Mace](#heavy-mace-2)           |
-| **Support DPS**    | [Halberd](#halberd)                 | [Spirithunter](#spirithunter)     | [Realmbreaker](#realmbreaker)         |
-| **DPS**            | [Infinity Blade](#infinity-blade)   | [Longbow](#longbow)               | [Carving Sword](#carving-sword-1)     |
-| **DPS**            | [Ursine Maulers](#ursine-maulers)   | [Heron Spear](#heron-spear)       | [Kingmaker](#kingmaker)               |
-| **DPS**            | [Bloodmoon Staff](#bloodmoon-staff) | [Hellfire Hands](#hellfire-hands) | [Spiked Gauntlets](#spiked-gauntlets) |
-| **DPS**            | [Infernal Scythe](#infernal-scythe) | [Carving Sword](#carving-sword)   | [Infernal Scythe](#infernal-scythe-1) |
-| **DPS**            | [Bloodletter](#bloodletter)         | [Dawnsong](#dawnsong)             | [Dawnsong](#dawnsong-1)               |
-| **Healer**         | [Hallowfall](#hallowfall)           | [Hallowfall](#hallowfall-1)       | [Hallowfall](#hallowfall-2)           |
-| **Healer**         | [Blight Staff](#blight-staff)       | [Blight Staff](#blight-staff-1)   | [Blight Staff](#blight-staff-2)       |
-
-<img src="Brawl%2010%20Full.png" style="width:30%;"> <img src="Brawl%2010%20Kite.png" style="width:30%;"> <img src="Brawl%2010%20Clap.png" style="width:30%;">
+|                    | [Full Brawl](#full-brawl)                            | [Brawl Kite](#brawl-kite)         | [Brawl Clap](#brawl-clap)             |
+| ------------------ | ---------------------------------------------------- | --------------------------------- | ------------------------------------- |
+| **Caller**         | [Great Hammer](#great-hammer)                        | [Mace](#mace)                     | [Hand of Justice](#hand-of-justice)   |
+| **Defensive Tank** | [Heavy Mace](#heavy-mace)                            | [Heavy Mace](#heavy-mace-1)       | [Heavy Mace](#heavy-mace-2)           |
+| **Support DPS**    | [Halberd](#halberd)                                  | [Spirithunter](#spirithunter)     | [Realmbreaker](#realmbreaker)         |
+| **DPS**            | [Infinity Blade](#infinity-blade)                    | [Longbow](#longbow)               | [Carving Sword](#carving-sword-1)     |
+| **DPS**            | [Ursine Maulers](#ursine-maulers)                    | [Heron Spear](#heron-spear)       | [Kingmaker](#kingmaker)               |
+| **DPS**            | [Bloodmoon Staff](#bloodmoon-staff)                  | [Hellfire Hands](#hellfire-hands) | [Spiked Gauntlets](#spiked-gauntlets) |
+| **DPS**            | [Infernal Scythe](#infernal-scythe)                  | [Carving Sword](#carving-sword)   | [Infernal Scythe](#infernal-scythe-1) |
+| **DPS**            | [Bloodletter](#bloodletter)                          | [Dawnsong](#dawnsong)             | [Dawnsong](#dawnsong-1)               |
+| **Healer**         | [Hallowfall](#hallowfall)                            | [Hallowfall](#hallowfall-1)       | [Hallowfall](#hallowfall-2)           |
+| **Healer**         | [Blight Staff](#blight-staff)                        | [Blight Staff](#blight-staff-1)   | [Blight Staff](#blight-staff-2)       |
+|                    | <img src="Brawl%2010%20Full.png" style="width:80%;"> | <img src="Brawl%2010%20Kite.png" style="width:80%;">                                  | <img src="Brawl%2010%20Clap.png" style="width:300%;">                                      |
 
 ![](Brawl%2010.png)
 
