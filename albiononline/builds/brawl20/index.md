@@ -45,8 +45,8 @@ parent_url: /albiononline/builds/
 
 ## Caller/Engage Tank
 
-- *preferred weapon* / Dreadstorm Monarch (3 2 1 2)
-- Astral Aegis / *preferred shield*
+- *preferred weapon*
+- *preferred shield/offhand*
 - Knight Helmet (3 1)
 - Judicator Armor (3 1/2 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
@@ -141,22 +141,22 @@ parent_url: /albiononline/builds/
 
 - Carving Sword (2 6 1 4)
 - Kingmaker (2 6 1 4)
-- Infinity Blade (2 1 1 4) / Muisak
+- Infinity Blade (2 2/4 1 4) Muisak
 - Carrioncaller (3 5 1 3)
 - Infernal Scythe (3 5 1 3)
 - Bear Paws (3 5 1 3)
 - Forge Hammers (1 2 1 2)
-- Ursine Maulers (3 1 1 4)
+- Ursine Maulers (2/3 1 1 4)
 - Heron Spear (1 1 1 1) / Muisak
 - Bloodmoon Staff (4 1 1 1)
 - Lightcaller (4 1 1 4)
 - Astral Staff (2 2 1 2)
-- Bloodletter (2 1 1 1) / Facebreaker
+- Bloodletter (2 1 1 1) Facebreaker
 
-- Cleric Cowl (3 1)
+- Cleric Cowl (3 1) / Soldier Helmet (3 1)
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2) / Cleric Sandals (3 2) / Mercenary Shoes (3 2)
-- Smuggler Cape (Caerleon Cape for stackers)
+- Smuggler Cape / Lymhurst Cape
 - Resistance Potion
 - Beef Stew / Deadwater Eel Stew
 
