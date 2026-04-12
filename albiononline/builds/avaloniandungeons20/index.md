@@ -13,11 +13,11 @@ parent_url: /albiononline/builds/
 1. [**Main Tank**](#main-tank)
 2. [**Second Tank**](#second-tank)
 3. [Great Arcane Staff](#great-arcane-staff)
-4. [Great Arcane Staff](#great-arcane-staff)
-5. [**Main Healer**](#party-healer)
-6. [**Party Healer**](#party-healer)
-7. [**DPS** Shadowcaller](#shadowcaller)
-8. [**DPS** Blazing Staff](#blazing-staff)
+4. [**Main Healer**](#party-healer)
+5. [**Party Healer**](#party-healer)
+6. [**DPS** Shadowcaller](#shadowcaller)
+7. [**DPS** Blazing Staff](#blazing-staff)
+8. **DPS**
 9. **DPS**
 10. **DPS**
 11. **DPS**
@@ -28,10 +28,9 @@ parent_url: /albiononline/builds/
 16. **DPS**
 17. **DPS**
 18. **DPS**
-19. **DPS**
-20. **Scout**
+19. **Scout**
 
-**DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Arctic Staff](#arctic-staff), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
+**DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Arctic Staff](#arctic-staff), [Permafrost Prism](#permafrost-prism), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
 
 ![](Avalonian%20Dungeons%2020.png)
 ## Everyone
@@ -63,16 +62,16 @@ parent_url: /albiononline/builds/
 
 - Incubus Mace (3 4 1 2) Mistcaller
 - Hellion Hood (3 1) / Demon Helmet (3 1)
-- Guardian Armor (3 1 1)
+- Royal Jacket (3 3)
 - Royal Shoes (2 4)
-- Caerleon Cape
+- Lymhurst Cape
 - 10 × Calming Potion T5.2 (for group use)
-- 5 × Pork Omelette T7.1
+- 5 × Pork Omelette T7
 
 **Swaps**
 - Black Monk Stave (1 3 1 2)
 - Rotcaller Staff (3 1 1 3)
-- Royal Jacket (3 3)
+- Guardian Armor (3 1 1)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 
@@ -88,7 +87,7 @@ parent_url: /albiononline/builds/
 - Royal Shoes (2 4)
 - Lymhurst Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Pork Omelette T7.1
+- 5 × Pork Omelette T7
 
 **Swaps**
 - Fallen Staff (3 5 1 1)
@@ -101,10 +100,10 @@ parent_url: /albiononline/builds/
 - Ironroot Staff (3 2 1 1) Celestial Censer
 - Druid Cowl (3 3/1)
 - Royal Robe (3 3/1)
-- Royal Shoes (2 4/2)
+- Royal Shoes (2 2)
 - Lymhurst Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Pork Omelette T7.1
+- 5 × Pork Omelette T7
 
 **Swaps**
 - Holy Staff (1 2 1 1 / Priestess 3 2 1 1 / Archmage 3 5 1 1)
@@ -115,11 +114,10 @@ parent_url: /albiononline/builds/
 - Ironroot Staff (1 2 1 1) Mistcaller
 - Druid Cowl (3 3)
 - Royal Jacket (3 3)
-- Royal Shoes (2 4)
+- Royal Shoes (2 2)
 - Lymhurst Cape
 - 10 × Calming Potion T3 (for personal use)
-- 20 × Poison Potion T4
-- 5 × Pork Omelette T7.1
+- 5 × Pork Omelette T7
 
 **Swaps**
 - Fallen Staff (3 5 1 1)
@@ -129,15 +127,14 @@ parent_url: /albiononline/builds/
 
 - Shadowcaller (3 1 1 3) Cryptcandle
 - Assassin Hood (3 3)
-- Specter Jacket (3 1)
-- Cultist Sandals (3 2)
+- Royal Jacket (3 3)
+- Royal Shoes (2 2)
 - Lymhurst Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
-- Royal Jacket (3 3)
 - 20 × Poison Potion T4
 
 **Notes**
@@ -151,25 +148,10 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2) / Stalker Shoes (3 2)
 - Caerleon Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Wildfire Staff (1 3 1 3) Cryptcandle / *any single target DPS*
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
-## Crystal Reaper
-
-- Crystal Reaper (2 5 1 4)
-- Assassin Hood (3 1) / Royal Cowl (3 1)
-- Druid Robe (3 1)
-- Royal Sandals (3 2) / Stalker Shoes (3 2)
-- Caerleon Cape / Lymhurst Cape
-- 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
-
-**Swaps**
-- Bow (1 2 1 4) / *any single target DPS*
 - Guardian Helmet (3 1)
 - 20 × Poison Potion T4
 
@@ -181,7 +163,7 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2) / Stalker Shoes (3 2)
 - Caerleon Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
@@ -195,7 +177,7 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2)
 - Morgana Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
@@ -209,7 +191,21 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2)
 - Morgana Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
+
+**Swaps**
+- Guardian Helmet (3 1)
+- 20 × Poison Potion T4
+
+## Permafrost Prism
+
+- Permafrost Prism (2 5 1 3)
+- Royal Cowl (3 1)
+- Scholar Robe (3 1)
+- Royal Sandals (3 2)
+- Morgana Cape
+- 10 × Calming Potion T3 (for personal use)
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
@@ -223,7 +219,7 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2)
 - Caerleon Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
@@ -237,7 +233,7 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2)
 - Caerleon Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
@@ -251,7 +247,7 @@ parent_url: /albiononline/builds/
 - Royal Sandals (3 2)
 - Caerleon Cape
 - 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8.1
+- 5 × Beef Stew T8
 
 **Swaps**
 - Guardian Helmet (3 1)
