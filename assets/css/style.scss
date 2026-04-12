@@ -10,9 +10,11 @@
     border: 0;
 }
 
+.markdown-body table th {
+    text-align: left;
+}
+
 .markdown-body table th,
 .markdown-body table td {
     white-space: nowrap;
 }
-
-/* TEST */
