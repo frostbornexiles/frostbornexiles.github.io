@@ -23,7 +23,9 @@ parent_url: /albiononline/builds/
 | **Healer**         | [Hallowfall](#hallowfall)           | [Hallowfall](#hallowfall-1)       | [Hallowfall](#hallowfall-2)           |
 | **Healer**         | [Blight Staff](#blight-staff)       | [Blight Staff](#blight-staff-1)   | [Blight Staff](#blight-staff-2)       |
 
-![](Brawl%2010%20Full.png)![](Brawl%2010%20Kite.png)![](Brawl%2010%20Clap.png)
+<img src="/Brawl%2010%20Full.png" style="width:300%;"> <img src="/Brawl%2010%20Kite.png" style="width:300%;"> <img src="/Brawl%2010%20Clap.png" style="width:300%;">
+
+![](Brawl%2010.png)
 
 ## Everyone
 
