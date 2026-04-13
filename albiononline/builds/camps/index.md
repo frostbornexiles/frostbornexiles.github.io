@@ -1,3 +1,13 @@
+---
+title: Camps
+parent_title: Builds
+parent_url: /albiononline/builds/
+---
+
+{% include breadcrumbs.html %}
+
+# Camps
+
 ## Roles
 
 1. **Tank** [Incubus Mace](#incubus-mace)
@@ -8,6 +18,7 @@
 6. **DPS** [Permafrost Prism](#permafrost-prism)
 7. **DPS** [Longbow](#longbow)
 
+![](Camps.png)
 
 ## Everyone
 
