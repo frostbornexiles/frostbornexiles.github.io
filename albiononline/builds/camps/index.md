@@ -13,7 +13,7 @@ parent_url: /albiononline/builds/
 1. **Tank** [Incubus Mace](#incubus-mace)
 2. **Healer** [Holy Staff](#holy-staff)
 3. **Support** [Shadowcaller](#shadowcaller)
-4. **DPS** [Shadowcaller](#shadowcaller)
+4. **DPS** [Bow of Badon](#bow-of-badon)
 5. **DPS** [Blazing Staff](#blazing-staff)
 6. **DPS** [Permafrost Prism](#permafrost-prism)
 7. **DPS** [Longbow](#longbow)
