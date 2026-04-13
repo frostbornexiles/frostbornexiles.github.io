@@ -1,29 +1,19 @@
----
-title: Group Dungeons
-parent_title: Builds
-parent_url: /albiononline/builds/
----
-
-{% include breadcrumbs.html %}
-
-# Group Dungeons
-
 ## Roles
 
-- **Tank** Incubus Mace
-- **Healer** Holy Staff
-- **Debuff/DPS** Shadowcaller
-- **Support** Bow of Badon
-- **RDPS** Blazing Staff
-- **RDPS** Permafrost Prism
+1. **Tank** [Incubus Mace](#incubus-mace)
+2. **Healer** [Holy Staff](#holy-staff)
+3. **Support** [Shadowcaller](#shadowcaller)
+4. **DPS** [Shadowcaller](#shadowcaller)
+5. **DPS** [Blazing Staff](#blazing-staff)
+6. **DPS** [Permafrost Prism](#permafrost-prism)
+7. **DPS** [Longbow](#longbow)
 
-![](Group%20Dungeons.png)
 
 ## Everyone
 
-- Weapon, off-hand, armour T8 (or equivalent)
+- Weapon, off-hand, armour T7 (or equivalent)
 - Cape T4.3
-- Riding/Armored Horse, Bag T6
+- Riding/Armored Horse, Bag T5
 - 5 × Calming Potion T3.2 (Tank 20 × Poison Potion T4)
 - 3 × *food*
 
@@ -34,31 +24,31 @@ parent_url: /albiononline/builds/
 - Soldier Helmet (3 1)
 - Guardian Armor (3 1 2)
 - *leather shoes* (2 4)
-- Lymhurst Cape
+- Caerleon Cape
 - 20 × Poison Potion T4
-- 3 × Beef Sandwich T8.1
+- 3 × Beef Sandwich T8
 
 ## Holy Staff
 
 - Holy Staff (3 2 1 1) / *any holy staff* (3 2 1 1)
 - Celestial Censer
 - Graveguard Helmet (3 1)
-- Royal Jacket (3 1)
+- Royal Robe (3 1)
 - *cloth sandals* (2 2)
 - Lymhurst Cape
 - 5 × Calming Potion T3.2
-- 3 × Pork Omelette T7.1
+- 3 × Pork Omelette T7
 
 ## Shadowcaller
 
 - Shadowcaller (3 4 1 1)
-- Cryptcandle
+- Mistcaller
 - Assassin Hood (3 1)
-- Royal Robe (3 1)
-- Royal Sandals (3 2)
+- Royal Jacket (3 1)
+- *leather shoes* (2 4)
 - Lymhurst Cape
 - 5 × Calming Potion T3.2
-- 3 × Beef Stew T8.1
+- 3 × Pork Omelette T7
 
 ## Bow of Badon
 
@@ -68,7 +58,7 @@ parent_url: /albiononline/builds/
 - *leather shoes* (3 4)
 - Lymhurst Cape
 - 5 × Calming Potion T3.2
-- 3 × Pork Omelette T7.1
+- 3 × Pork Omelette T7
 
 ## Blazing Staff
 
@@ -76,16 +66,26 @@ parent_url: /albiononline/builds/
 - Assassin Hood (3 3)
 - Druid Robe (3 1)
 - Stalker Shoes (3 2)
-- Thetford Cape
+- Caerleon Cape
 - 5 × Calming Potion T3.2
-- 3 × Beef Stew T8.1
+- 3 × Beef Stew T8
 
 ## Permafrost Prism
 
 - Permafrost Prism (2 5 1 3)
 - Assassin Hood (3 1)
 - Scholar Robe (3 1)
-- Royal Sandals (3 2)
+- *cloth sandals* (2 2)
 - Morgana Cape
 - 5 × Calming Potion T3.2
-- 3 × Beef Stew T8.1
+- 3 × Beef Stew T8
+
+## Longbow
+
+- Longbow (2 4 1 3)
+- Assassin Hood (3 3)
+- Druid Robe (3 1)
+- Stalker Shoes (3 2)
+- Caerleon Cape
+- 5 × Calming Potion T3.2
+- 3 × Beef Stew T8

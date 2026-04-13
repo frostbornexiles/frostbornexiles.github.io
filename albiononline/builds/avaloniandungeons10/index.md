@@ -49,7 +49,7 @@ parent_url: /albiononline/builds/
 - Assassin Jacket (3 3)
 - Miner Workboots (4 •)
 - Brescilien Cape / Fort Sterling Cape
-- Invisibility Potion / Gigantify Potion
+- 2 × Invisibility Potion / Gigantify Potion
 
 ## Main Tank
 

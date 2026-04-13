@@ -26,7 +26,7 @@ parent_url: /albiononline/builds/
 - Fort Sterling Cape T4 (for ride)
 - 10 × Calming Potion T3.1
 - 2 × Gigantify Potion T7
-- 3 × *food* (regular foods enchanted 7.1/8.1)
+- 3 × *food*
 
 ## Incubus Mace
 
@@ -36,43 +36,52 @@ parent_url: /albiononline/builds/
 - Guardian Armor (3 1 2)
 - *leather shoes* (2 2)
 - Avalonian Cape
-- Beef Sandwich / Thunderfall Lurcher Sandwich
 - 20 × Poison Potions T4
+- 2 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Holy Staff
 
 - Holy Staff (3 2 1 1) / *any holy staff* (3 2 1 1)
-- Celestial Censer
+- Mistcaller
 - Graveguard Helmet (3 1)
 - Royal Robe (3 1)
-- *cloth sandals* (2 2) / *leather shoes* (2 2) / Knight Boots (3 2)
+- *cloth sandals* (2 2)
 - Lymhurst Cape
-- Pork Omelette
+- 10 × Calming Potion T3.1
+- 2 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Shadowcaller
 
 - Shadowcaller (3 4 1 1)
 - Cryptcandle
-- Druid Cowl (3 1)
+- Assassin Hood (3 3)
 - Specter Jacket (3 3)
 - Cultist Sandals (3 2)
 - Martlock Cape
-- Roast Pork
+- 10 × Calming Potion T3.1
+- 2 × Gigantify Potion T7
+- 3 × Roast Pork T7
 
 ## Bow of Badon
 
 - Bow of Badon (2 1 1 3)
-- Assassin Hood (3 3)
+- Druid Cowl (3 1)
 - Royal Jacket (3 3)
 - *leather shoes* (3 2)
 - Lymhurst Cape
-- Pork Omelette
+- 10 × Calming Potion T3.1
+- 2 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Blazing Staff
 
 - Blazing Staff (2 2 1 4)
 - Assassin Hood (3 3)
 - Druid Robe (3 1)
-- Stalker Shoes (3 2) / Royal Sandals (3 2)
+- Stalker Shoes (3 2)
 - Caerleon Cape
-- Beef Stew
+- 10 × Calming Potion T3.1
+- 2 × Gigantify Potion T7
+- 3 × Beef Stew T8.1

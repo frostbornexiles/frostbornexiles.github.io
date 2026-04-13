@@ -23,9 +23,9 @@ parent_url: /albiononline/builds/
 ## Everyone
 
 - Horse, Bag T5
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2 (Healer and Shadowcaller only)
 - 3 × *main food*
-- 5 × Calming Potion (Healer and Shadowcaller only)
-- 5 × Resistance Potion
 - 10 × Siphoned Energy
 
 ## Incubus Mace
@@ -36,8 +36,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 2)
 - Judicator Boots (3 2)
 - Fort Sterling Cape
-- 5 × Resistance Potion
-- 3 × Beef Sandwich
+- 5 × Resistance Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Holy Staff
 
@@ -47,9 +47,9 @@ parent_url: /albiononline/builds/
 - Fiend Robe (3 1)
 - Mercenary Shoes (2/3 2)
 - Lymhurst Cape
-- 5 × Calming Potion
-- 5 × Resistance Potion
-- 3 × Dusthole Crab Omelette
+- 5 × Calming Potion T3.2
+- 5 × Resistance Potion T7
+- 3 × Dusthole Crab Omelette T7
 
 ## Shadowcaller
 
@@ -59,9 +59,9 @@ parent_url: /albiononline/builds/
 - Royal Jacket (3 1)
 - Cultist Sandals (3 2)
 - Fort Sterling
-- 5 × Calming Potion
-- 5 × Resistance Potion
-- 3 × Beef Stew
+- 5 × Calming Potion T3.2
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Permafrost
 
@@ -70,8 +70,8 @@ parent_url: /albiononline/builds/
 - Scholar Robe (3 1)
 - Stalker Shoes (3 2)
 - Morgana Cape
-- 5 × Resistance Potion
-- 3 × Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Mistpiercer
 
@@ -80,8 +80,8 @@ parent_url: /albiononline/builds/
 - Scholar Robe (3 1)
 - Stalker Shoes (3 2)
 - Morgana Cape
-- 5 × Resistance Potion
-- 3 × Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Blazing
 
@@ -90,5 +90,5 @@ parent_url: /albiononline/builds/
 - Druid Robe (3 1)
 - Stalker Shoes (3 2)
 - Caerleon Cape
-- 5 × Resistance Potion
-- 3 × Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1

@@ -20,6 +20,8 @@ parent_url: /albiononline/builds/
 
 - Weapon, off-hand, armour, cape T4.1
 - Horse, Bag T3
+- 5 × *potion*
+- 2 × *food*
 
 ## Mace
 
@@ -28,7 +30,7 @@ parent_url: /albiononline/builds/
 - Graveguard Armor (3 2 1)
 - Hunter Shoes (3 4)
 - 5 × Stick Potion T5
-- 2 × Pork Omelette
+- 2 × Pork Omelette T7
 
 ## Holy Staff
 
@@ -36,8 +38,8 @@ parent_url: /albiononline/builds/
 - Mercenary Hood (3 1)
 - Cleric Robe (3 1)
 - Soldier Boots (3 2)
-- 5 × Resistance Potions T5
-- 2 × Pork Omelette
+- 5 × Resistance Potion T5
+- 2 × Pork Omelette T7
 
 ## Fire Staff
 
@@ -45,5 +47,5 @@ parent_url: /albiononline/builds/
 - Mercenary Hood (3 1)
 - Mage Robe (3 1)
 - Soldier Boots (3 2)
-- 5 × Poison Potions T6
-- 2 × Beef Stew
+- 5 × Poison Potion T6
+- 2 × Beef Stew T8

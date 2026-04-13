@@ -27,8 +27,8 @@ parent_url: /albiononline/builds/
 
 - Direwolf or any fast mount
 - Bag T6
+- 5 × Gigantify Potion T7 / Resistance Potion T7
 - 3 × *food*
-- 5 × *potions*
 - 10 × Siphoned Energy
 
 ## Hand of Justice
@@ -38,8 +38,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 1)
 - Stalker Shoes (3 4)
 - Smuggler Cape
-- Gigantify potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Heavy Mace
 
@@ -48,8 +48,8 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 1 1)
 - Stalker Shoes (3 4)
 - Smuggler Cape
-- Gigantify potion
-- Avalonian Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7
 
 ## Rootbound Staff
 
@@ -58,8 +58,8 @@ parent_url: /albiononline/builds/
 - Royal Armor (3 1 1)
 - Stalker Shoes (3 4)
 - Smuggler Cape
-- Gigantify potion
-- Avalonian Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7
 
 ## Carving Sword
 
@@ -68,8 +68,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 1)
 - Stalker Shoes (3 4)
 - Smuggler Cape
-- Gigantify potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Realmbreaker
 
@@ -78,8 +78,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Resistance Potion
-- Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Spiked Gauntlets
 
@@ -88,8 +88,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Martlock Cape
-- Resistance Potion
-- Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Dawnsong
 
@@ -98,8 +98,8 @@ parent_url: /albiononline/builds/
 - Cleric Robe (3 1)
 - Stalker Shoes (3 2)
 - Martlock Cape
-- Resistance Potion
-- Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Permafrost Prism
 
@@ -108,8 +108,8 @@ parent_url: /albiononline/builds/
 - Scholar Robe (3 1)
 - Stalker Shoes (3 2)
 - Morgana Cape
-- Resistance Potion
-- Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Hallowfall
 
@@ -118,8 +118,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Mercenary Shoes (3 2)
 - Lymhurst Cape
-- Resistance Potion
-- Dusthole Crab Omelette
+- 5 × Resistance Potion T7
+- 3 × Dusthole Crab Omelette T7
 
 ## Blight Staff
 
@@ -128,5 +128,5 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Mercenary Shoes (3 2)
 - Lymhurst Cape
-- Resistance Potion
-- Dusthole Crab Omelette
+- 5 × Resistance Potion T7
+- 3 × Dusthole Crab Omelette T7

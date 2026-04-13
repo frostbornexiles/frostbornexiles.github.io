@@ -23,9 +23,9 @@ parent_url: /albiononline/builds/
 ## Everyone
 
 - Horse, Bag T5
-- 3 × *main food*
 - 5 × Resistance Potion T7
 - 5 × Calming Potion T3.2
+- 3 × *food*
 - 10 × Siphoned Energy
 
 ## Polehammer
@@ -35,8 +35,9 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 2 1)
 - Judicator Boots (3 3) / Fiend Sandals (3 4)
 - Smuggler Cape
-- Resistance Potion
-- Pork Omelette / Avalonian Pork Omelette
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Pork Omelette T7.1 / Avalonian Pork Omelette T7
 
 ## Great Arcane Staff
 
@@ -45,8 +46,9 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 1 1)
 - Stalker Shoes (3 4)
 - Smuggler Cape
-- Resistance Potion
-- Pork Omelette / Avalonian Pork Omelette
+- 5 × Cleansing Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Pork Omelette T7.1 / Avalonian Pork Omelette T7
 
 ## Hallowfall
 
@@ -56,8 +58,9 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 1)
 - Lymhurst Cape
-- Resistance Potion
-- Pork Omelette / Avalonian Pork Omelette
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Pork Omelette T7.1 / Avalonian Pork Omelette T7
 
 ## Rotcaller Staff
 
@@ -66,8 +69,9 @@ parent_url: /albiononline/builds/
 - Feyscale Robe (3 1)
 - Mercenary Shoes (3 2) / Stalker Shoes (3 2) / Cleric Sandals (3 2)
 - Lymhurst Cape
-- Resistance Potion / Cleansing Potion
-- Deadwater Eel Stew
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Deadwater Eel Stew T8
 
 ## Dawnsong
 
@@ -76,8 +80,9 @@ parent_url: /albiononline/builds/
 - Feyscale Robe (3 1)
 - Mercenary Shoes (3 2) / Stalker Shoes (3 2) / Cleric Sandals (3 2)
 - Lymhurst Cape / Smuggler Cape
-- Resistance Potion / Cleansing Potion
-- Deadwater Eel Stew
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Deadwater Eel Stew T8
 
 ## Arctic Staff
 
@@ -86,8 +91,9 @@ parent_url: /albiononline/builds/
 - Feyscale Robe (3 1)
 - Mercenary Shoes (3 2) / Stalker Shoes (3 2) / Cleric Sandals (3 2)
 - Lymhurst Cape / Smuggler Cape
-- Resistance Potion / Cleansing Potion
-- Deadwater Eel Stew
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Deadwater Eel Stew T8
 
 ## Mistpiercer
 
@@ -96,5 +102,6 @@ parent_url: /albiononline/builds/
 - Feyscale Robe (3 1)
 - Mercenary Shoes (3 2) / Stalker Shoes (3 2) / Cleric Sandals (3 2)
 - Lymhurst Cape / Smuggler Cape
-- Resistance Potion / Cleansing Potion
-- Deadwater Eel Stew
+- 5 × Resistance Potion T7
+- 5 × Calming Potion T3.2
+- 3 × Deadwater Eel Stew T8

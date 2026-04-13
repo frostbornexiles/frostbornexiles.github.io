@@ -30,8 +30,8 @@ parent_url: /albiononline/builds/
 
 - Direwolf or any fast mount
 - Bag T6
+- 5 × Gigantify Potion T7
 - 3 × *food*
-- 5 × *potions*
 - 10 × Siphoned Energy
 
 # Full Brawl
@@ -43,8 +43,8 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 1 •)
 - Hellion Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Heavy Mace
 
@@ -53,8 +53,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 •)
 - Judicator Boots (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Halberd
 
@@ -63,8 +63,8 @@ parent_url: /albiononline/builds/
 - Royal Armor (3 1 •)
 - Boots of Valor (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Infinity Blade
 
@@ -74,8 +74,8 @@ parent_url: /albiononline/builds/
 - Cleric Robe (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Ursine Maulers
 
@@ -84,8 +84,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Bloodmoon Staff
 
@@ -94,8 +94,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Infernal Scythe
 
@@ -104,8 +104,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Bloodletter
 
@@ -115,8 +115,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Hallowfall
 
@@ -126,8 +126,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Blight Staff
 
@@ -136,8 +136,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 # Brawl Kite
 
@@ -148,8 +148,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 2 •)
 - Hellion Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Heavy Mace
 
@@ -158,8 +158,8 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 2 •)
 - Judicator Boots (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Spirithunter
 
@@ -168,8 +168,8 @@ parent_url: /albiononline/builds/
 - Royal Armor (3 1 •)
 - Boots of Valor (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Longbow
 
@@ -178,8 +178,8 @@ parent_url: /albiononline/builds/
 - Cleric Robe (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Heron Spear
 
@@ -189,8 +189,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Hellfire Hands
 
@@ -199,8 +199,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Carving Sword
 
@@ -209,8 +209,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Dawnsong
 
@@ -219,8 +219,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Hallowfall
 
@@ -230,8 +230,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Blight Staff
 
@@ -240,8 +240,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 # Brawl Clap
 
@@ -252,8 +252,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 2 •)
 - Hellion Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Heavy Mace
 
@@ -262,8 +262,8 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 2 •)
 - Judicator Boots (3 3)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Realmbreaker
 
@@ -272,8 +272,8 @@ parent_url: /albiononline/builds/
 - Royal Armor (3 1 •)
 - Boots of Valor (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Carving Sword
 
@@ -282,8 +282,8 @@ parent_url: /albiononline/builds/
 - Cleric Robe (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Kingmaker
 
@@ -292,8 +292,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Spiked Gauntlets
 
@@ -302,8 +302,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Infernal Scythe
 
@@ -312,8 +312,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Dawnsong
 
@@ -322,8 +322,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Beef Stew
+- 5 × Gigantify Potion T7
+- 3 × Beef Stew T8.1
 
 ## Hallowfall
 
@@ -333,8 +333,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Blight Staff
 
@@ -343,5 +343,5 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
 - Lymhurst Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1

@@ -29,7 +29,7 @@ parent_url: /albiononline/builds/
 - Direwolf/Morgana Raven or any fast mount
 - Bag T6
 - 5 × *main potion*
-- 3 × *food* (enchanted 7.1/8.1)
+- 3 × *food*
 - 10 × Poison Potion T8 (if not main potion)
 - 2 × Invisibility Potion
 - 2 × Calming Potion T3.1
@@ -41,8 +41,8 @@ parent_url: /albiononline/builds/
 - Fiend Robe (3 1)
 - Royal Sandals (3 2)
 - Demon Cape
-- Poison Potion
-- Beef Stew
+- 5 × Poison Potion T8
+- 3 × Beef Stew T8.1
 
 ## Bear Paws
 - Bear Paws (3 2/3 1 1)
@@ -50,8 +50,8 @@ parent_url: /albiononline/builds/
 - Fiend Robe (3 1)
 - Royal Sandals (3 2)
 - Thetford Cape
-- Poison Potion
-- Beef Stew
+- 5 × Poison Potion T8
+- 3 × Beef Stew T8.1
 
 ## Cursed Staff
 
@@ -60,8 +60,8 @@ parent_url: /albiononline/builds/
 - Fiend Robe (3 1)
 - Royal Sandals (3 2)
 - Caerleon Cape
-- Poison Potion
-- Beef Stew
+- 5 × Poison Potion T8
+- 3 × Beef Stew T8.1
 
 ## Grailseeker
 
@@ -70,8 +70,8 @@ parent_url: /albiononline/builds/
 - Graveguard Armor (3 2 1)
 - Hunter Shoes (3 2)
 - Demon Cape
-- Sticky Potion
-- Pork Omelette
+- 5 × Sticky Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Hallowfall
 
@@ -80,8 +80,8 @@ parent_url: /albiononline/builds/
 - Robe of Purity (3 1)
 - Mercenary Shoes (3 2)
 - Martlock Cape / Fort Sterling Cape
-- Resistance Potion
-- Dusthole Crab Omelette
+- 5 × Resistance Potion T7
+- 3 × Dusthole Crab Omelette T7
 
 ## Frost Staff
 
@@ -90,8 +90,8 @@ parent_url: /albiononline/builds/
 - Graveguard Armor (3 2 1)
 - Hunter Shoes (3 2)
 - Demon Cape
-- Sticky Potion
-- Pork Omelette
+- 5 × Sticky Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Dagger Pair
 
@@ -100,8 +100,8 @@ parent_url: /albiononline/builds/
 - Assassin Jacket (3 1)
 - Hellion Shoes (3 2)
 - Thetford Cape
-- Poison Potion
-- Beef Stew
+- 5 × Poison Potion T8
+- 3 × Beef Stew T8.1
 
 ## Deathgivers
 
@@ -110,8 +110,8 @@ parent_url: /albiononline/builds/
 - Assassin Jacket (3 1)
 - Royal Sandals (3 2)
 - Thetford Cape
-- Poison Potion
-- Deadwater Eel Stew
+- 5 × Poison Potion T8
+- 3 × Deadwater Eel Stew T8
 
 ## Bloodletter
 
@@ -120,5 +120,5 @@ parent_url: /albiononline/builds/
 - Assassin Jacket (3 1)
 - Royal Sandals (3 2)
 - Thetford Cape
-- Poison Potion
-- Deadwater Eel Stew
+- 5 × Poison Potion T8
+- 3 × Deadwater Eel Stew T8

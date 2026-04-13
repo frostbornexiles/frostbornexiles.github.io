@@ -27,6 +27,8 @@ parent_url: /albiononline/builds/
 - Cape T4.3
 - Armored Horse, Bag T6
 - Skip set
+- 10 × Poison Potion T4 (Healers 10 × Energy Potion T4)
+- 2 × *food*
 
 ## Skip set
 

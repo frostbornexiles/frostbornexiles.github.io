@@ -23,8 +23,8 @@ parent_url: /albiononline/builds/
 - Require 100 specialisation on weapon (prefer 800)
 - Cape T4.3
 - Riding Horse, Bag T5
-- 5 × *potion*
-- 2 × *food* (regular foods enchanted 7.1/8.1)
+- 5 × Gigantify Potion
+- 2 × *food*
 - 10 × Siphoned Energy
 
 ## Heron Spear
@@ -35,7 +35,7 @@ parent_url: /albiononline/builds/
 - Soldier Armor
 - Stalker Shoes
 - Lymhurst Cape
-- Gigantify Potions
+- Gigantify Potion
 - Avalonian Beef Sandwich
 
 ## Blight Staff
@@ -45,7 +45,7 @@ parent_url: /albiononline/builds/
 - Robe of Purity
 - Mercenary Shoes
 - Lymhurst Cape
-- Gigantify Potions
+- Gigantify Potion
 - Pork Omelette
 
 ## Longbow
@@ -55,7 +55,7 @@ parent_url: /albiononline/builds/
 - Hellion Jacket
 - Mercenary Shoes
 - Lymhurst Cape
-- Gigantify Potions
+- Gigantify Potion
 - Beef Stew
 
 ## Bloodletter
@@ -66,5 +66,5 @@ parent_url: /albiononline/builds/
 - Hellion Jacket
 - Stalker Shoes
 - Lymhurst Cape
-- Gigantify Potions
+- Gigantify Potion
 - Deadwater Eel Stew

@@ -37,10 +37,10 @@ parent_url: /albiononline/builds/
 ![](Brawl%2020.png)
 
 ## Everyone
-- Swiftclaw or Direwolf / any fast mount
+- Swiftclaw
 - Bag T5
+- 5 × Gigantify Potion T7 / Resistance Potion T7
 - 3 × *food*
-- 5 × *potions*
 - 10 × Siphoned Energy
 
 ## Caller/Engage Tank
@@ -51,8 +51,8 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1/2 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Beef Sandwich
+- 5 × Gigantify Potion T7
+- 3 × Beef Sandwich T8.1
 
 ## Great Arcane Staff
 
@@ -61,8 +61,8 @@ parent_url: /albiononline/builds/
 - Knight Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Avalonian Pork Omelette / Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7 / Pork Omelette T7.1
 
 ## Truebolt Hammer
 
@@ -72,8 +72,8 @@ parent_url: /albiononline/builds/
 - Duskweaver Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Avalonian Pork Omelette / Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7 / Pork Omelette T7.1
 
 ## Staff of Balance
 
@@ -82,8 +82,8 @@ parent_url: /albiononline/builds/
 - Duskweaver Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Avalonian Pork Omelette / Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7 / Pork Omelette T7.1
 
 ## Heavy Mace
 
@@ -92,8 +92,8 @@ parent_url: /albiononline/builds/
 - Guardian Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Avalonian Pork Omelette / Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7 / Pork Omelette T7.1
 
 ## Dreadstorm Monarch
 
@@ -103,8 +103,8 @@ parent_url: /albiononline/builds/
 - Guardian Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Avalonian Pork Omelette / Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Avalonian Pork Omelette T7 / Pork Omelette T7.1
 
 ## Hallowfall
 
@@ -114,8 +114,8 @@ parent_url: /albiononline/builds/
 - *leather jacket* (2 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 2) / Stalker Shoes (3 2)
 - Lymhurst Cape
-- Resistance Potion
-- Pork Omelette
+- 5 × Resistance Potion T7
+- 3 × Pork Omelette T7.1
 
 ## Fallen Staff
 
@@ -124,8 +124,8 @@ parent_url: /albiononline/builds/
 - *leather jacket* (2 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 2) / Stalker Shoes (3 2)
 - Lymhurst Cape
-- Resistance PotionD
-- Pork Omelette
+- 5 × Resistance Potion T7D
+- 3 × Pork Omelette T7.1
 
 ## Blight Staff
 
@@ -134,8 +134,8 @@ parent_url: /albiononline/builds/
 - *leather jacket* (2 1)
 - Mercenary Shoes (3 2) / Cleric Sandals (3 2) / Stalker Shoes (3 2)
 - Lymhurst Cape
-- Resistance Potion
-- Pork Omelette
+- 5 × Resistance Potion T7
+- 3 × Pork Omelette T7.1
 
 ## DPS
 
@@ -157,8 +157,8 @@ parent_url: /albiononline/builds/
 - Hellion Jacket (3 1)
 - Stalker Shoes (3 2) / Cleric Sandals (3 2) / Mercenary Shoes (3 2)
 - Smuggler Cape / Lymhurst Cape
-- Resistance Potion
-- Beef Stew / Deadwater Eel Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1 / Deadwater Eel Stew T8
 
 ## Spiked Gauntlets
 
@@ -167,8 +167,8 @@ parent_url: /albiononline/builds/
 - Cultist Robe (2/3 2)
 - Stalker Shoes (3 2)
 - Smuggler Cape
-- Resistance Potion
-- Beef Stew
+- 5 × Resistance Potion T7
+- 3 × Beef Stew T8.1
 
 ## Support
 
@@ -181,5 +181,5 @@ parent_url: /albiononline/builds/
 - Judicator Armor (3 1 •)
 - Cleric Sandals (3 4) / Stalker Shoes (3 4) / Mercenary Shoes (3 4)
 - Smuggler Cape
-- Gigantify Potion
-- Pork Omelette
+- 5 × Gigantify Potion T7
+- 3 × Pork Omelette T7.1
