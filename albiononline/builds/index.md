@@ -16,7 +16,7 @@ parent_url: /albiononline/
 - [Brawl 20](brawl20/)
 - [Camps](camps/)
 - [Clap 10](clap10/)
-- [Fire Staff Friday](firestaff/)
+- [Fire Staff Friday](firestafffriday/)
 - [Ganking](ganking/)
 - [Gold Chests](goldchests/)
 - [Group Dungeons](groupdungeons/)
