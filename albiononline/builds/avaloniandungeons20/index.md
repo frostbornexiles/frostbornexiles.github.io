@@ -28,7 +28,8 @@ parent_url: /albiononline/builds/
 16. **DPS**
 17. **DPS**
 18. **DPS**
-19. **Scout**
+19. **DPS**
+20. **Scout**
 
 **DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Arctic Staff](#arctic-staff), [Permafrost Prism](#permafrost-prism), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
 

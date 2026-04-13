@@ -14,7 +14,7 @@ parent_url: /albiononline/builds/
 2. **Defensive Tank** Heavy Mace 
 3. **Support** Rootbound Staff
 4. **Debuff/Support** Carving Sword
-5. **Debuff/DPS** Realmbreaker 
+5. **Debuff/DPS** Realmbreaker
 6. **DPS** Spiked Gauntlets
 7. **Debuff/DPS** Dawnsong
 8. **DPS** Permafrost Prism
