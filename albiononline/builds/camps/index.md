@@ -16,6 +16,7 @@
 - Riding/Armored Horse, Bag T5
 - 5 × Calming Potion T3.2 (Tank 20 × Poison Potion T4)
 - 3 × *food*
+- 10 × Siphoned Energy
 
 ## Incubus Mace
 
