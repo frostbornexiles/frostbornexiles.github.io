@@ -13,8 +13,8 @@ parent_url: /albiononline/builds/
 - **Dismount** [Claws](#claws)
 - **Dismount/DPS** [Bear Paws](#bear-paws)
 - **Catch** [Grailseeker](#grailseeker)
-- **DPS** [Cursed Staff](#cursed-staff)
 - **Healer** [Hallowfall](#hallowfall)
+- **DPS** [Cursed Staff](#cursed-staff)
 - **Fill Catch/DPS** [Frost Staff](#frost-staff)
 - **Fill DPS** [Dagger Pair](#dagger-pair) / [Deathgivers](#deathgivers) / [Bloodletter](#bloodletter)
 
