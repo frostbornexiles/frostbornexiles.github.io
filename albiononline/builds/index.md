@@ -14,6 +14,7 @@ parent_url: /albiononline/
 - [Avalonian Dungeons 20](avaloniandungeons20/)
 - [Brawl 10](brawl10/)
 - [Brawl 20](brawl20/)
+- [Camps](camps/)
 - [Clap 10](clap10/)
 - [Fire Staff Friday](firestaff/)
 - [Ganking](ganking/)
