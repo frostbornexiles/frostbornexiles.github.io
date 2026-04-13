@@ -25,7 +25,7 @@ parent_url: /albiononline/builds/
 - Horse, Bag T5
 - 5 × Resistance Potion T7
 - 5 × Calming Potion T3.2 (Healer and Shadowcaller only)
-- 3 × *main food*
+- 3 × *food*
 - 10 × Siphoned Energy
 
 ## Incubus Mace
