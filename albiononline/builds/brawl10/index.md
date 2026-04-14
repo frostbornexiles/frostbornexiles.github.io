@@ -121,7 +121,7 @@ parent_url: /albiononline/builds/
 ## Hallowfall
 
 - Hallowfall (3 2 1 4)
-- Sarcophagus
+- Shield
 - Soldier Helmet (3 1)
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
@@ -225,7 +225,7 @@ parent_url: /albiononline/builds/
 ## Hallowfall
 
 - Hallowfall (3 2 1 4)
-- Sarcophagus
+- Shield
 - Soldier Helmet (3 1)
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
@@ -328,7 +328,7 @@ parent_url: /albiononline/builds/
 ## Hallowfall
 
 - Hallowfall (3 2 1 4)
-- Sarcophagus
+- Shield
 - Soldier Helmet (3 1)
 - Robe of Purity (3 1)
 - Stalker Shoes (3 2)
