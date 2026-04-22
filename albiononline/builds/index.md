@@ -9,7 +9,6 @@ parent_url: /albiononline/
 # Builds
 
 - [4vX](4vX/)
-- [Avalonian Dungeon “Soup” Skip](soupskip/)
 - [Avalonian Dungeons 10](avaloniandungeons10/)
 - [Avalonian Dungeons 20](avaloniandungeons20/)
 - [Brawl 10](brawl10/)
@@ -21,4 +20,5 @@ parent_url: /albiononline/
 - [Gold Chests](goldchests/)
 - [Group Dungeons](groupdungeons/)
 - [Roads FTB](roadsFTB/)
+- [Soup Skip](soupskip/)
 - [Static Dungeons](staticdungeons/)
