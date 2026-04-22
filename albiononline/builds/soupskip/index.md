@@ -1,12 +1,12 @@
 ---
-title: Avalonian Dungeon “Soup” Skip
+title: Soup Skip
 parent_title: Builds
 parent_url: /albiononline/builds/
 ---
 
 {% include breadcrumbs.html %}
 
-# Avalonian Dungeon “Soup” Skip
+# Soup Skip
 
 ## Roles
 
@@ -17,16 +17,14 @@ parent_url: /albiononline/builds/
 - **Support** [Rotcaller Staff](#rotcaller-staff)
 - At least 5 × **DPS** [Boltcasters](#boltcasters) / [Bow](#bow) / [Whispering Bow](#whispering-bow)
 
-![](Avalonian%20Dungeon%20Skip.png)
-
-![](Avalonian%20Dungeon%20Skip%20ONLY.png)
+![](Soup%20Skip.png)
 
 ## Everyone
 
 - Weapon, off-hand, armour T7 (or equivalent)
 - Cape T4.3
 - Armored Horse, Bag T6
-- Skip set
+- Skip set (see below)
 - 10 × Poison Potion T4 (Healers 10 × Energy Potion T4)
 - 2 × *food*
 
