@@ -68,7 +68,7 @@ parent_url: /albiononline/builds/
 - Grailseeker (1 2 1 1)
 - Skinner Cap (4 •)
 - Graveguard Armor (3 2 1)
-- Hunter Shoes (3 2)
+- Hunter Shoes (3 4)
 - Demon Cape
 - 5 × Sticky Potion T7
 - 3 × Pork Omelette T7.1
