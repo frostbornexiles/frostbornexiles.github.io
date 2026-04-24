@@ -12,12 +12,12 @@ parent_url: /albiononline/builds/
 
 1. [**Main Tank**](#main-tank)
 2. [**Second Tank**](#second-tank)
-3. [Great Arcane Staff](#great-arcane-staff)
-4. [**Main Healer**](#party-healer)
-5. [**Party Healer**](#party-healer)
-6. [**DPS** Shadowcaller](#shadowcaller)
-7. [**DPS** Blazing Staff](#blazing-staff)
-8. **DPS**
+3. [**Support** Great Arcane Staff](#great-arcane-staff)
+4. [**Support** Shadowcaller](#shadowcaller)
+5. [**Main Healer**](#party-healer)
+6. [**Party Healer**](#party-healer)
+7. [**Party Healer**](#party-healer)
+8. [**DPS** Blazing Staff](#blazing-staff)
 9. **DPS**
 10. **DPS**
 11. **DPS**
@@ -29,7 +29,8 @@ parent_url: /albiononline/builds/
 17. **DPS**
 18. **DPS**
 19. **DPS**
-20. **Scout**
+20. **DPS**
+21. **Scout**
 
 **DPS** [Crystal Reaper](#crystal-reaper), [Lightcaller](#lightcaller), [Chillhowl](#chillhowl), [Arctic Staff](#arctic-staff), [Permafrost Prism](#permafrost-prism), [Weeping Repeater](#weeping-repeater), [Light Crossbow](#light-crossbow), [Mistpiercer](#mistpiercer)
 
@@ -50,7 +51,7 @@ parent_url: /albiononline/builds/
 - Guardian Armor (2 2 2)
 - Hunter Shoes (3 4)
 - Fort Sterling Cape
-- 10 × Calming Potion T5.2 (for group use)
+- 10 × Calming Potion T7 (for group use)
 - 5 × Avalonian Beef Sandwich
 
 **Swaps**
@@ -62,8 +63,8 @@ parent_url: /albiononline/builds/
 ## Second Tank
 
 - Incubus Mace (3 4 1 2) Mistcaller
-- Hellion Hood (3 1) / Demon Helmet (3 1)
-- Royal Jacket (3 3)
+- Hellion Hood (3 1)
+- Guardian Armor (3 1 1)
 - Royal Shoes (2 4)
 - Lymhurst Cape
 - 10 × Calming Potion T5.2 (for group use)
@@ -71,8 +72,6 @@ parent_url: /albiononline/builds/
 
 **Swaps**
 - Black Monk Stave (1 3 1 2)
-- Rotcaller Staff (3 1 1 3)
-- Guardian Armor (3 1 1)
 - Knight Helmet (3 1)
 - Guardian Helmet (3 1)
 
@@ -95,6 +94,23 @@ parent_url: /albiononline/builds/
 - Enigmatic Staff (2 2 1 •)
 - Judicator Armor (3 1 1)
 - Guardian Helmet (3 1)
+
+## Shadowcaller
+
+- Shadowcaller (3 1 1 3) Mistcaller
+- Assassin Hood (3 3)
+- Royal Jacket (3 3)
+- Royal Shoes (2 4)
+- Lymhurst Cape
+- 10 × Calming Potion T3 (for personal use)
+- 5 × Pork Omelette T8
+
+**Swaps**
+- Guardian Helmet (3 1)
+- Rotcaller Staff (3 1 1 3)
+
+**Notes**
+- Damage resistance reduction does not apply while Great Arcane Staff *Time Freeze* is active.
 
 ## Main Healer
 
@@ -123,23 +139,6 @@ parent_url: /albiononline/builds/
 **Swaps**
 - Fallen Staff (3 5 1 1)
 - Guardian Helmet (3 1)
-
-## Shadowcaller
-
-- Shadowcaller (3 1 1 3) Cryptcandle
-- Assassin Hood (3 3)
-- Royal Jacket (3 3)
-- Royal Shoes (2 2)
-- Lymhurst Cape
-- 10 × Calming Potion T3 (for personal use)
-- 5 × Beef Stew T8
-
-**Swaps**
-- Guardian Helmet (3 1)
-- 20 × Poison Potion T4
-
-**Notes**
-- Damage resistance reduction does not apply while Great Arcane Staff *Time Freeze* is active.
 
 ## Blazing Staff
 
