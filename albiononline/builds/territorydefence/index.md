@@ -30,9 +30,9 @@ parent_url: /albiononline/builds/
 18. **Party Healer** Blight Staff
 19. **Healer Support** Rootbound Staff (Offensive)
 20. **Healer Support** Rootbound Staff (Defensive)
-21. **Battlemount**
-22. **Battlemount**
-23. **Battlemount**
+21. **Battle Mount**
+22. **Battle Mount**
+23. **Battle Mount**
 24. **Fill**
 25. **Fill**
 26. **Fill**
