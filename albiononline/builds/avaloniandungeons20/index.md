@@ -40,7 +40,7 @@ parent_url: /albiononline/builds/
 - Gallant Horse (recommended) or Armored Horse T7
 - Bag T7
 - 10 × Calming Potion T3 (for personal use)
-- 20 × Poison Potion T4 (all DPS)
+- 5 × Resistance Potion T7
 - 5 × *food* + one Pork Pie
 - Fort Sterling Cape (for ride out/back)
 
