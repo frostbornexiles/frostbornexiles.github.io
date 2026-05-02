@@ -37,12 +37,16 @@ parent_url: /albiononline/builds/
 ![](Avalonian%20Dungeons%2020.png)
 ## Everyone
 
-- Gallant Horse (recommended) or Armored Horse T7
+- All weapons and armours equivalent tier per the builds graphic
+- DPS weapons T9 equivalent with 100 specialisation
+- Armours T8 equiv. (Royals T7 equiv.)
+- Capes T4.3
 - Bag T7
-- 10 × Calming Potion T3 (for personal use)
-- 5 × Resistance Potion T7
-- 5 × *food* + one Pork Pie
+- Gallant Horse (recommended) or Armored Horse T7
 - Fort Sterling Cape (for ride out/back)
+- 10 × Calming Potions T3 (tanks use T7)
+- 5 × Resistance Potions (except tanks)
+- 5 × *food* + one Pork Pie
 
 ## Main Tank
 
@@ -85,7 +89,7 @@ parent_url: /albiononline/builds/
 - Assassin Hood (3 3)
 - Royal Jacket (3 3)
 - Royal Shoes (2 4)
-- Lymhurst Cape
+- Fort Sterling Cape
 - 10 × Calming Potion T3 (for personal use)
 - 5 × Pork Omelette T7
 
